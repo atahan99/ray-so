@@ -660,7 +660,7 @@ const coding: Snippet[] = [
 } finally {
 
 }`,
-    keyword: "try",
+    keyword: "tryc",
     type: "template",
   },
   {
